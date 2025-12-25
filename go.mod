@@ -1,4 +1,4 @@
-module github.com/bogdanfinn/tls-client
+module github.com/i7solar/tls-client
 
 go 1.24.1
 
